@@ -18,7 +18,7 @@ public class Question2 {
         //We used n * (n + 1) / 2 to calculate the expected sum of the first n natural numbers.
         System.out.println("Missing number is: ");
         System.out.println(expectedSum - actualSum);
-/*Missing number is expectedSum - actualSum because Because the expected sum 
+/*Missing number is expectedSum - actualSum because Because the expected 
 includes all numbers from 0 to n, while the actual sum is missing one number*/
         sc.close();
     }
