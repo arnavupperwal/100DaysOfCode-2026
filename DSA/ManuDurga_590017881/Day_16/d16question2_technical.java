@@ -76,3 +76,5 @@ public class d16question2_technical {
         sc.close();
     }
 }
+
+
