@@ -55,4 +55,5 @@ public class d17question1_leetcode {
         Boolean palindrome = sol.isPalindrome(list1);
      
         System.out.println(palindrome);
+        sc.close();
     }}

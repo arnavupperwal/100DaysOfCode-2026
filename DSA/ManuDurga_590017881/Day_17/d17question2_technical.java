@@ -59,7 +59,6 @@ public class d17question2_technical {
 
         Solution sol = new Solution();
         System.out.println(sol.hasCycle(head));
-
         sc.close();
     }
 }
